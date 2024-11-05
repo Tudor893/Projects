@@ -1,0 +1,32 @@
+Faina
+9.2
+Sos de rosii
+12
+Mozzarella
+5
+Ulei de masline
+7
+Bacon
+3
+Ceapa
+2
+Pepperoni
+2
+Ciuperci
+3
+Masline
+1
+Sunca
+4
+Salam
+5
+Creveti
+6
+Cascaval
+8
+Ardei
+4
+Carnati
+5
+Oregano
+3
